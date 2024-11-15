@@ -1,6 +1,6 @@
 <img
   src="https://render.gitanimals.org/farms/eungwan0402"
-  width="600"
+  width="700"
   height="300"
 />
 </a>
